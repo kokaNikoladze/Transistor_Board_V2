@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC,Quantity
+R_Small,"R10,R11,R12,R5,R6,R7,R8,R9",R_0805_2012Metric,C17414,8
+AO3400A,"Q10,Q11,Q12,Q5,Q6,Q7,Q8,Q9",SOT-23,C20917,8
+SS54,"D10,D11,D12,D13,D6,D7,D8,D9",D_SMA,C22452,8
+Barrel_Jack_Switch,"J1,J15,J3,J4,J5,J6,J7,J8,J9",DC-005-5A-2.0-SMT,C319134,9
+DIODE,D2,TO-220-2_Horizontal_TabDown,,1
+Conn_01x02_Female,J14,PinHeader_1x02_P2.54mm_Vertical,,1
+Teensy4.1,U1,Teensy41,,1
